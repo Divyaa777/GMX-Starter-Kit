@@ -15,10 +15,10 @@ completed
 - ### `Git and Github`
     - [Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)(40mins)<br>
     - [Github](https://www.youtube.com/watch?v=RGOj5yH7evk&t=1s)(1hr 10 mins)<br>
-
+completed
 - ### `Chrome developer tools`
     - [developer tool](https://www.youtube.com/watch?v=y0ue4ZZlZwg)(25mins)<br>
-
+completed
 ## Web Development
 
 - ### `About Browser`
