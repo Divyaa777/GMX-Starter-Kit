@@ -11,7 +11,7 @@ As part of this program, we have listed the following Student Assessment Learnin
 completed
 - ### `Code Editor`
     - [Visual Studio Code](https://www.youtube.com/watch?v=WPqXP_kLzpo)(1hr 30mins)<br>
-
+completed
 - ### `Git and Github`
     - [Git](https://www.youtube.com/watch?v=Uszj_k0DGsg)(40mins)<br>
     - [Github](https://www.youtube.com/watch?v=RGOj5yH7evk&t=1s)(1hr 10 mins)<br>
