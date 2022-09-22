@@ -1,0 +1,32 @@
+h1{
+    font-family: 'Brush Script MT', cursive;
+    text-align:relative;
+    font-size: larger;
+    color: black;
+
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgoldenrod;
+    font-size: xx-large;
+    text-align: center;
+
+}
+h2{
+    font-family:Georgia, 'Times New Roman', Times, serif
+    text-align:left;
+    font-size: larger;
+    color: white;
+
+}
+body{
+    background-image: url('hogw.jpg');
+}
+li{
+    text-align:left;
+}
+k{
+    color: black;
+    font-size: medium;
+    font-family: fantasy;
+}
